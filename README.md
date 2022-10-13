@@ -1,6 +1,6 @@
 # dsa-for-everyone
 
-
+Hey There!!
 
 This repository is made to have important articles of different **data-structures *of cpp* and algorithms**.
 ## Rules For working on an issue.
